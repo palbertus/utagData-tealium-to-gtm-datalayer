@@ -7,15 +7,15 @@ Simply copy the script as a new HTML tag with an initialisation trigger
 Example of an existing Tealium json in the page:
 
 <script type="application/json" id="utagData">
-        {
-                    "sample_day_of_week" : "Monday",
-                    "sample_logged_in" : "N",
-                    "sample_channel" : "website",
-                    "sample_language_code" : "fr-CH",
-                    "sample_timestamp" : "20230206",
-					          "sample_pagename" : "Page XYZ",
-            	      "sample_page_type" : "Breaking News",
-         		        "sample_site_section" : "News" 
+	{
+	"sample_day_of_week" : "Monday",
+	"sample_logged_in" : "N",
+	"sample_channel" : "website",
+	"sample_language_code" : "fr-CH",
+	"sample_timestamp" : "20230206",
+	"sample_pagename" : "Page XYZ",
+	"sample_page_type" : "Breaking News",
+	"sample_site_section" : "News" 
         }
 </script>
 
